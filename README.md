@@ -2,7 +2,7 @@
 ![alt text](image.png)
 
 
-Link: 
+Link: https://nicolehekim.github.io/automatic-password-generator/
 
 GIVEN I need a new, secure password
 WHEN I click the button to generate a password
